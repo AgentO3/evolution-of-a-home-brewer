@@ -8,7 +8,10 @@
 - Have a bucket dedicated to sanitization
 
 # Getting Started 2.5 gallon batches
-- [Mr Beer](http://passionforthepint.com/wp-content/uploads/2012/02/Mr-Beer.jpg)
+
+![img](http://passionforthepint.com/wp-content/uploads/2012/02/Mr-Beer.jpg)
+
+- Mr Beer
   - Open can & add water
   - Boil & booster
   - Cool & add yeast
