@@ -121,3 +121,9 @@
 - [Ball lock gas line](http://www.amazon.com/Homebrew-Ball-Disconnect-Screw-Clamp/dp/B00C30GRZM/ref=sr_1_8?ie=UTF8&qid=1398270807&sr=8-8&keywords=ball+lock+gas) $16.99 
 - [20oz co2 tank](http://www.amazon.com/Pure-Energy-40020-Empire-20oz/dp/B0008G2WAW/ref=sr_1_1?ie=UTF8&qid=1398270929&sr=8-1&keywords=20oz+co2) $20.00
 
+# Yes, I did bring samples!
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2014-07-18%2015.18.22.jpg)
+
+
+
