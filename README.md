@@ -1,7 +1,8 @@
 # Evolution Of A Home Brewer
 
-- Home Brewing TLDR
-  - Kind of like having sea-monkey, but they make booze.
+- Why Home Brewing TLDR
+  - Like having sea-monkeys, but they make booze.
+  - The only way I can convince my wife to that I should have a kegerator.
 - PSA About Sanitization
   - Use a no rinse sanitizer
   - Have a bucket dedicated to sanitization
