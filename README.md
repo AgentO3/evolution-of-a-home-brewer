@@ -24,7 +24,9 @@
 
 # Scaling Up
 
-# [5 Gallon Batches Equipment](http://www.homebrewing.org/assets/images/3.jpg)
+![img](http://www.homebrewing.org/assets/images/3.jpg)
+
+# 5 Gallon Batches Equipment
 - Brewing pot 8 gallons
 - 5 gallon carboy/fermenter
 - Secondary fermenter
