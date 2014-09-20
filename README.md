@@ -69,6 +69,8 @@
 
 ![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-07-28%2018.35.47.jpg)
 
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-07-28%2012.24.26.jpg)
+
 # Brew In A Bag Method (All grain with less equipment)
 - 10 gallon brew pot
 - A seconary pot at least 5 gallons
@@ -76,6 +78,8 @@
 - All the same equipment as above
 
 # All Grain Brewing
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-11-28%2011.45.46.jpg)
 
 - Bring water to strike temp, about 165 degrees
 - Insert large sack and start adding grains
@@ -92,10 +96,6 @@
 - After 2 weeks your ready to start bottling
 - Syphon to bottling bucket and mix in surgar
 - Bottle & cap
-
-![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-11-28%2011.45.46.jpg)
-
-![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-07-28%2012.24.26.jpg)
 
 ![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-11-28%2013.25.55.jpg)
 
