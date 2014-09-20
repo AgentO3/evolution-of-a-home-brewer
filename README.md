@@ -6,8 +6,9 @@
 
 # PSA About Sanitization
   - Have a bucket dedicated to sanitization
-- Getting Started
-  - Mr Beer | http://passionforthepint.com/wp-content/uploads/2012/02/Mr-Beer.jpg
+
+# Getting Started
+  - [Mr Beer](http://passionforthepint.com/wp-content/uploads/2012/02/Mr-Beer.jpg)
     - Open can & add water
     - Boil & booster
     - Cool & add yeast
