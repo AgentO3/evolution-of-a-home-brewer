@@ -30,16 +30,19 @@
 - Brewing pot 8 gallons
 - 5 gallon carboy/fermenter
 - Secondary fermenter
-- Wart chiller
+- Wort chiller
 - Bottling bucket
 - Auto Syphon
 - 50 empty bottle (PROTIP: Don't by empty bottles, drink good beer instead)
 
-# Exract Brewing
+# Extract Brewing
+
+![img](http://howtohomebrew.org/images/wort%20chiller%20&%20malt%20brew%20059.jpg)
+
 - Malt extract (liquid and or powdered)
 - Add to water then boil
 - Add hops pellets
-- Chill with wart chiller
+- Chill with wort chiller
 - Pitch yeast
 - After 1 week move to secondary fermentor
 - After 2 weeks your ready to start bottling
@@ -47,12 +50,15 @@
 - Bottle & cap
 
 # Partial Mash
+
+![img](http://www.beeraucratic.com/wp-content/uploads/2012/01/partial-mash.jpg)
+
 - Bring water to strike temp, about 165 degrees
 - Fill grain sack and let it mash for about 60 mins at 155 degrees
 - Remove sack and add malt extract (liquid and or powdered)
 - Bring water to a boil
 - Add hops pellets
-- Chill with wart chiller
+- Chill with wort chiller
 - Pitch yeast
 - After 1 week move to secondary fermentor
 - After 2 weeks your ready to start bottling
@@ -61,6 +67,8 @@
  
 # Going All Grain
 
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-07-28%2018.35.47.jpg)
+
 # Brew In A Bag Method (All grain with less equipment)
 - 10 gallon brew pot
 - A seconary pot at least 5 gallons
@@ -68,6 +76,9 @@
 - All the same equipment as above
 
 # All Grain Brewing
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-11-28%2011.45.46.jpg)
+
 - Bring water to strike temp, about 165 degrees
 - Insert large sack and start adding grains
 - Let it mash for about 60 mins at 155 degrees
@@ -77,12 +88,22 @@
 - Combine other pots water into main pot
 - Bring water to a boil
 - Add hops pellets
-- Chill with wart chiller
+- Chill with wort chiller
 - Pitch yeast
 - After 1 week move to secondary fermentor ( add flavors or more hops here )
 - After 2 weeks your ready to start bottling
 - Syphon to bottling bucket and mix in surgar
 - Bottle & cap
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-11-28%2013.25.55.jpg)
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2014-02-23%2015.11.44.jpg)
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2014-02-23%2016.17.52.jpg)
+
+# Recirculating Wort Cooling System
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2014-08-09%2008.39.18.jpg)
 
 # At this point your probably sick of bottling
 
