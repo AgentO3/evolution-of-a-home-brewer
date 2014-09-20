@@ -1,77 +1,91 @@
 # Scaling Home Brewering
 
 # Why Home Brewing TLDR
-  - Like having sea-monkeys, but they make booze.
-  - The only way I can convince my wife to that I should have a kegerator.
+- Like having sea-monkeys, but they make booze.
+- The only way I could convince my wife to that I should have a kegerator.
 
 # PSA About Sanitization
-  - Have a bucket dedicated to sanitization
+- Have a bucket dedicated to sanitization
 
-# Getting Started
-  - [Mr Beer](http://passionforthepint.com/wp-content/uploads/2012/02/Mr-Beer.jpg)
-    - Open can & add water
-    - Boil & booster
-    - Cool & add yeast
-    - Wait 2 weeks then bottle, prime with sugar
-  - Simple Hard Cider
-    - Store bought apple cider
-    - Bring to room temp
-    - Add champagne yeast
-    - Wait 2 weeks then bottle, prime with sugar
-- Leveling Up | http://www.homebrewing.org/assets/images/3.jpg
-  - 5 Gallon Batches Equipment
-    - Brewing pot 8 gallons
-    - 5 gallon carboy/fermenter
-    - Secondary fermenter
-    - Wart chiller
-    - Bottling bucket
-    - Auto Syphon
-    - 50 empty bottle (PROTIP: Don't by empty bottles, drink good beer instead)
-  - Exract Brewing
-    - Malt extract (liquid and or powdered)
-    - Add to water then boil
-    - Add hops pellets
-    - Chill with wart chiller
-    - Pitch yeast
-    - After 1 week move to secondary fermentor
-    - After 2 weeks your ready to start bottling
-    - Syphon to bottling bucket and mix in surgar
-    - Bottle & cap
-  - Partial Mash
-    - Bring water to strike temp, about 165 degrees
-    - Fill grain sack and let it mash for about 60 mins at 155 degrees
-    - Remove sack and add malt extract (liquid and or powdered)
-    - Bring water to a boil
-    - Add hops pellets
-    - Chill with wart chiller
-    - Pitch yeast
-    - After 1 week move to secondary fermentor
-    - After 2 weeks your ready to start bottling
-    - Syphon to bottling bucket and mix in surgar
-    - Bottle & cap
-- Going All Grain
-  - Brew In A Bag Method (All grain with less equipment)
-    - 10 gallon brew pot
-    - A seconary pot at least 5 gallons
-    - A large mesh bag (Must be able to hold 25lbs to 40lbs of wet grains)
-    - All the same equipment as above
-  - All Grain Brewing
-    - Bring water to strike temp, about 165 degrees
-    - Insert large sack and start adding grains
-    - Let it mash for about 60 mins at 155 degrees
-    - While mash is happening bring water in other pot to strike temp
-    - Remove sack and let it drain
-    - Sparge by dunking sack in other pot or slowing pouring over hot water
-    - Combine other pots water into main pot
-    - Bring water to a boil
-    - Add hops pellets
-    - Chill with wart chiller
-    - Pitch yeast
-    - After 1 week move to secondary fermentor ( add flavors or more hops here )
-    - After 2 weeks your ready to start bottling
-    - Syphon to bottling bucket and mix in surgar
-    - Bottle & cap
-- At this point your probably sick of bottling
-  - Kegging FTW
-  - Cornenlius Kegs - http://www.ebay.com/itm/5-GALLON-CORNELIUS-CO-CANISTER-KEG-POP-BEER-HOMEBREW-130-PSI-Pressure-/351172118494?pt=LH_DefaultDomain_0&hash=item51c37d47de
+# Getting Started 2.5 gallon batches
+- [Mr Beer](http://passionforthepint.com/wp-content/uploads/2012/02/Mr-Beer.jpg)
+  - Open can & add water
+  - Boil & booster
+  - Cool & add yeast
+  - Wait 2 weeks then bottle, prime with sugar
+- Simple Hard Cider
+  - Store bought apple cider
+  - Bring to room temp
+  - Add champagne yeast
+  - Wait 2 weeks then bottle, prime with sugar
+
+# Scaling Up
+
+# [5 Gallon Batches Equipment](http://www.homebrewing.org/assets/images/3.jpg)
+- Brewing pot 8 gallons
+- 5 gallon carboy/fermenter
+- Secondary fermenter
+- Wart chiller
+- Bottling bucket
+- Auto Syphon
+- 50 empty bottle (PROTIP: Don't by empty bottles, drink good beer instead)
+
+# Exract Brewing
+- Malt extract (liquid and or powdered)
+- Add to water then boil
+- Add hops pellets
+- Chill with wart chiller
+- Pitch yeast
+- After 1 week move to secondary fermentor
+- After 2 weeks your ready to start bottling
+- Syphon to bottling bucket and mix in surgar
+- Bottle & cap
+
+# Partial Mash
+- Bring water to strike temp, about 165 degrees
+- Fill grain sack and let it mash for about 60 mins at 155 degrees
+- Remove sack and add malt extract (liquid and or powdered)
+- Bring water to a boil
+- Add hops pellets
+- Chill with wart chiller
+- Pitch yeast
+- After 1 week move to secondary fermentor
+- After 2 weeks your ready to start bottling
+- Syphon to bottling bucket and mix in surgar
+- Bottle & cap
  
+# Going All Grain
+
+# Brew In A Bag Method (All grain with less equipment)
+- 10 gallon brew pot
+- A seconary pot at least 5 gallons
+- A large mesh bag (Must be able to hold 25lbs to 40lbs of wet grains)
+- All the same equipment as above
+
+# All Grain Brewing
+- Bring water to strike temp, about 165 degrees
+- Insert large sack and start adding grains
+- Let it mash for about 60 mins at 155 degrees
+- While mash is happening bring water in other pot to strike temp
+- Remove sack and let it drain
+- Sparge by dunking sack in other pot or slowing pouring over hot water
+- Combine other pots water into main pot
+- Bring water to a boil
+- Add hops pellets
+- Chill with wart chiller
+- Pitch yeast
+- After 1 week move to secondary fermentor ( add flavors or more hops here )
+- After 2 weeks your ready to start bottling
+- Syphon to bottling bucket and mix in surgar
+- Bottle & cap
+
+# At this point your probably sick of bottling
+
+# Kegging FTW
+- [Cornenlius Kegs](http://www.ebay.com/itm/5-GALLON-CORNELIUS-CO-CANISTER-KEG-POP-BEER-HOMEBREW-130-PSI-Pressure-/351172118494?pt=LH_DefaultDomain_0&hash=item51c37d47de)
+- [DIY Kegerator](https://dl.dropboxusercontent.com/u/69816878/brewing/2014-05-25%2015.53.24.jpg)
+- [co2go](http://www.amazon.com/Midwest-Homebrewing-and-Winemaking-Supplies/dp/B0064OJSZE/ref=sr_1_1?ie=UTF8&qid=1398270558&sr=8-1&keywords=co2+to+go) $12.35
+- [Regulator](http://www.amazon.com/Kegco-Premium-Series-Gauge-Regulator/dp/B003WX772G/ref=sr_1_1?ie=UTF8&qid=1398270683&sr=8-1&keywords=co2+regulator) $46.90
+- [Ball lock gas line](http://www.amazon.com/Homebrew-Ball-Disconnect-Screw-Clamp/dp/B00C30GRZM/ref=sr_1_8?ie=UTF8&qid=1398270807&sr=8-8&keywords=ball+lock+gas) $16.99 
+- [20oz co2 tank](http://www.amazon.com/Pure-Energy-40020-Empire-20oz/dp/B0008G2WAW/ref=sr_1_1?ie=UTF8&qid=1398270929&sr=8-1&keywords=20oz+co2) $20.00
+
