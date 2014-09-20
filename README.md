@@ -1,10 +1,9 @@
-# Evolution Of A Home Brewer
+# Scaling Home Brewering
 
 - Why Home Brewing TLDR
   - Like having sea-monkeys, but they make booze.
   - The only way I can convince my wife to that I should have a kegerator.
 - PSA About Sanitization
-  - Use a no rinse sanitizer
   - Have a bucket dedicated to sanitization
 - Getting Started
   - Mr Beer | http://passionforthepint.com/wp-content/uploads/2012/02/Mr-Beer.jpg
@@ -60,7 +59,7 @@
     - Let it mash for about 60 mins at 155 degrees
     - While mash is happening bring water in other pot to strike temp
     - Remove sack and let it drain
-    - Sparge by dunking sack in other pot
+    - Sparge by dunking sack in other pot or slowing pouring over hot water
     - Combine other pots water into main pot
     - Bring water to a boil
     - Add hops pellets
