@@ -77,8 +77,6 @@
 
 # All Grain Brewing
 
-![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-11-28%2011.45.46.jpg)
-
 - Bring water to strike temp, about 165 degrees
 - Insert large sack and start adding grains
 - Let it mash for about 60 mins at 155 degrees
@@ -95,11 +93,19 @@
 - Syphon to bottling bucket and mix in surgar
 - Bottle & cap
 
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-11-28%2011.45.46.jpg)
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-07-28%2012.24.26.jpg)
+
 ![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-11-28%2013.25.55.jpg)
 
 ![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2014-02-23%2015.11.44.jpg)
 
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2014-02-23%2013.57.48.jpg)
+
 ![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2014-02-23%2016.17.52.jpg)
+
+![img](https://dl.dropboxusercontent.com/u/69816878/brewing/2013-09-19%2018.50.51.jpg)
 
 # Recirculating Wort Cooling System
 
