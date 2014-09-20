@@ -1,9 +1,10 @@
 # Scaling Home Brewering
 
-- # Why Home Brewing TLDR
+# Why Home Brewing TLDR
   - Like having sea-monkeys, but they make booze.
   - The only way I can convince my wife to that I should have a kegerator.
-- PSA About Sanitization
+
+# PSA About Sanitization
   - Have a bucket dedicated to sanitization
 - Getting Started
   - Mr Beer | http://passionforthepint.com/wp-content/uploads/2012/02/Mr-Beer.jpg
