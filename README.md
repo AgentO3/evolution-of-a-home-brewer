@@ -36,8 +36,10 @@
     - Syphon to bottling bucket and mix in surgar
     - Bottle & cap
   - Partial Mash
-    - Malt extract (liquid and or powdered)
-    - Add to water then boil
+    - Bring water to strike temp, about 165 degrees
+    - Fill grain sack and let it mash for about 60 mins at 155 degrees
+    - Remove sack and add malt extract (liquid and or powdered)
+    - Bring water to a boil
     - Add hops pellets
     - Chill with wart chiller
     - Pitch yeast
@@ -45,9 +47,29 @@
     - After 2 weeks your ready to start bottling
     - Syphon to bottling bucket and mix in surgar
     - Bottle & cap
-- All Grain FTW
-  - Brew In A Bag
-  - 5 gallons = 53oz bottles "That's alot of bottles"
-- Kegging FTW
+- Going All Grain
+  - Brew In A Bag Method (All grain with less equipment)
+    - 10 gallon brew pot
+    - A seconary pot at least 5 gallons
+    - A large mesh bag (Must be able to hold 25lbs to 40lbs of wet grains)
+    - All the same equipment as above
+  - All Grain Brewing
+    - Bring water to strike temp, about 165 degrees
+    - Insert large sack and start adding grains
+    - Let it mash for about 60 mins at 155 degrees
+    - While mash is happening bring water in other pot to strike temp
+    - Remove sack and let it drain
+    - Sparge by dunking sack in other pot
+    - Combine other pots water into main pot
+    - Bring water to a boil
+    - Add hops pellets
+    - Chill with wart chiller
+    - Pitch yeast
+    - After 1 week move to secondary fermentor ( add flavors or more hops here )
+    - After 2 weeks your ready to start bottling
+    - Syphon to bottling bucket and mix in surgar
+    - Bottle & cap
+- At this point your probably sick of bottling
+  - Kegging FTW
   - Cornenlius Kegs - http://www.ebay.com/itm/5-GALLON-CORNELIUS-CO-CANISTER-KEG-POP-BEER-HOMEBREW-130-PSI-Pressure-/351172118494?pt=LH_DefaultDomain_0&hash=item51c37d47de
  
